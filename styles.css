@@ -1,0 +1,44 @@
+
+    body {
+ 
+ background-image: url("https://i.pinimg.com/564x/bd/1e/ad/bd1eadf0dcfdc66af8075c6467e3d14b.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+    .task {
+      margin-bottom: 10px;
+      
+    }
+    .completed {
+      text-decoration: line-through;
+      color: #888;
+    }
+    .todo-section {
+      float: left;
+      width: 45%;
+      background-image: 
+ url( "https://i.pinimg.com/564x/eb/5c/5b/eb5c5b604d7b5e1b49f14ee663f9a740.jpg"); 
+  width: 45%;
+  background-color: #c6dbe6;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+    }
+    .finished-section {
+      float: right;
+      width: 45%;
+    }
+    .finished-section {
+      color: rgb(247, 242, 242);
+  float: right;
+  width: 45%;
+  background-color: #ee0d0d;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-image: 
+ url( "https://i.pinimg.com/564x/2a/f5/6c/2af56c081659d1fbef86b3e0d5a761d5.jpg"); 
+}
+     
+
+
